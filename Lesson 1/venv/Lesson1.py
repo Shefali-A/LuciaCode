@@ -1,19 +1,19 @@
-print "I am most excited to learn how to pictures out of symbols"
-print "5" + "days"
-print "          @ @ @ @"
-print "       @           @"
-print "     @               @"
-print "   @                   @"
-print "  @                     @"
-print " @                       @"
-print " @                       @"
-print " @                       @"
-print " @                       @"
-print "  @                     @"
-print "   @                   @"
-print "     @               @"
-print "       @           @"
-print "          @ @ @ @"
+#print "I am most excited to learn how to pictures out of symbols"
+#print "5" + "days"
+#print "          @ @ @ @"
+#print "       @           @"
+#print "     @               @"
+#print "   @                   @"
+#print "  @                     @"
+#print " @                       @"
+#print " @                       @"
+#print " @                       @"
+#print " @                       @"
+#print "  @                     @"
+#print "   @                   @"
+#print "     @               @"
+#print "       @           @"
+#print "          @ @ @ @"
 
 
 # 1.Eat breakfeast
@@ -27,12 +27,19 @@ print "          @ @ @ @"
 width = 5
 length = 4
 area = width * length
-print area
+#print area
 
 name = "lila"
 numberOfJeans = 5
 priceOfJeans = 10
 taxRate = 0.10
-print name "will spend $"""
-print numberOfJeans * priceOfJeans * taxRate
-print "on" "numberOfJeans \"pairs of jeans"
+#print name, "will spend $", numberOfJeans * priceOfJeans * (taxRate+ 1), "on", str(numberOfJeans), "pairs of jeans"
+
+
+Me = 17 - 15 + 12
+Jenny = 7 * 3
+print str(Jenny + Me)
+
+inputIsDivisible = 
+if inputIsDivisible = 3
+    print ""

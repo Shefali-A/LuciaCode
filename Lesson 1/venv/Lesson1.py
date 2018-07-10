@@ -83,7 +83,7 @@
 # age(2018, 2004, 13)
 #
 # age(2022, 2000, 21)
-
+#
 # from random import *
 # answer = 8
 # answer = raw_input("What is 2 + 6? ")
@@ -105,14 +105,14 @@
 # print "Goodbye"
 
 
-
-from random import *
-randint1 = randint(1, 10)
-randint2 = randint(1, 10)
-answer = randint1 + randint2
-useranswer = raw_input("What is " + str(randint1) + " + " + str(randint2) + " ? ")
-useranswer = int(useranswer)
-if useranswer == answer:
-    print "Correct! You win " + str(randint(6, 10)) + " points!"
-else:
-    print "Incorrect, the answer is " + str(answer) + "."
+#
+# from random import *
+# randint1 = randint(1, 10)
+# randint2 = randint(1, 10)
+# answer = randint1 + randint2
+# useranswer = raw_input("What is " + str(randint1) + " + " + str(randint2) + " ? ")
+# useranswer = int(useranswer)
+# if useranswer == answer:
+#     print "Correct! You win " + str(randint(6, 10)) + " points!"
+# else:
+#     print "Incorrect, the answer is " + str(answer) + "."
